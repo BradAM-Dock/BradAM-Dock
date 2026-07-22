@@ -1,101 +1,127 @@
-<!-- ====================================================== -->
-<!-- Banner -->
-<!-- ====================================================== -->
+<div align="center">
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Brad%20Muñoz&fontSize=60&fontColor=ffffff&animation=twinkling&color=0:0f2027,30:203a43,60:2c5364,100:00c6ff"/>
-</p>
-
-<h1 align="center"> Hola! Soy Brad</h1>
-
-<p align="center">
-
-<a href="https://git.io/typing-svg">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=💻+Ingeniería+de+Sistemas;🐍+Python+Developer;☕+Java+Developer;🤖+Inteligencia+Artificial;🔐+Ciberseguridad;🚀+Siempre+aprendiendo"/>
-
-</a>
-
-</p>
-
----
-
-# 👨🏻‍💻 Sobre mí
-
-```text
-🎓 Ingeniería de Sistemas
-
-💻 Desarrollo de Software
-
-🤖 Inteligencia Artificial
-
-🔐 Ciberseguridad
-
-🗄 Bases de Datos
-
-🚀 Siempre buscando aprender algo nuevo.
+```
+--------=-------==============+#%@@@@@@@@@%%%%%@%%%%%%%%%%%%%####################*
+=============-----=============++#%@@@@@@@@%%#@%@@%%%%%%%%%%%%###################*
+==============------============++*%%@@@@@@@@@%%%%@%%%%%%%%%%%%##################*
+=================-----=====+++++=+++*%@@@%%@@@@%%@%@@%%%%%%%%%%%%################*
+=====================---==+++=++++==-=+#%%%#@@%%+=%%@@%%%%%%%%%%%%###############*
+========================--=++=.             -: -=-=-+#@@%%%%%%%%%%%%#############*
+==========================:                         -=#@@%%%%%%%%%%%%############*
+========================-                             +%%@@%%%%%%%%%%%###########*
+======================--.                              :%%@@%%%%%%%%%%%%%########*
+=====================-                                  +@%%@%%%%%%%%%%%%########*
+====================:                                   :%%@%@@@%%%%%%%%%%%%#####*
+===================:             .:-==+=-.               =%@%%@@%%%%%%%%%%%%#####*
+=======++=========+        .:-==++**#####*+-:            .%@@@@%@@%%%%%%%%%%%####*
+======+==++++======:      =+++++*#####%%%%%%%%%#*+:       -@@@@@@@@@%%%%%%%%%%%##*
+=====++=====+++====      -+-:-=-:...-*###%%%###%%%%%##=   .%@@@@@@@@@%%%%%%%%%%%%*
+===--:-=-====+++++-     :+++**####*=-=*#%%%*==:---=+#%%*. . *@@@@@@@%@@%%%%%%%%%%%*
+======+============    .***+=-::-=++--+#%%*****#%%%%%%%:   -%@@@@@@@@@@%%%%%%%%%%*
+=====++============    *#*+:.:..:=====*#%##*:. .=##%%%%=   -=*%@@@@@@@@@@%%%%%%%%*
+====++*============   =###*********+=+#%%%##*+==++=*#%%*  .====*%@@@@@@%@@%%%%%%%*
+======*+===========   *##########**++*#%%%%%%##%%%%%%%%#  :====-=#@@@@@@%%@%%%%%%*
+++++*#%%+======-----.-****#######*++**#%%%%%%%%%%%%%@@@%. .-=======#%@@@@%%%%%%%%*
++++----+++=========--=++**######*++- =**##%%%%%%%%%%%%@%-#+::-======+%@@@@%%@%***=
++++=-:=+++++++========+++***###**+:::-=**-+###%%%%%%%%%#+++::::-======*%@@@%@#+#*+
++*#*++++++++++++++====++++***###**++*#*#%%%%%#%%%%%%%%%%#*=      .=====+*%@@@%*##+
+--====+*+=+++++++++++==+++*****++++++***#%%%%%%%%%%%%%%%*+...      .-=====*%@%*##+
+=-----===============-====+**++-...::--==++###%%%%%%%%%#=::::::..... +**+**#%%**+-
+-----:.:::::----------=====+**++=-=+******=-+*##%##%%#%%=-:::::....  .:-=+*#%%%%%#
+====::::--------------=====++++++++++++***###########+---:::::::::::..::=**#%%%%%#
+--==-::-----:::::::::---===++++++*******############-::-----:::::::::::-=*##%%%%#-
+=:.:-::::::--.:--=+******===++****################+.      ..::::-:::-:--=*#%%%@%%-
++::--:-==**+++=--:.:...:: .-=++++**#####%%%####*+- -                   .  .... .+:
++::--:=##%%*#%#*##-*#+=.   ::--==+***#*####**+=+:  .:                          -+=
++:----+#%%%*%%####::       :::------=-----===++.  . .                         :-==
+=-==--++*#**++=:            ::----==+*******+-                                ::-.
+--=+==%%%+:                 .:---==++*****+=:                                 .:. 
+--==++-                   -  :---==++***+-:   .                               ..  
+-=+-                      -+ ::-=======-:.                                   :. ..
+==.                       +**::::-----::                                     :..  
+-                         +%###=-:::.                                             
+                          .%%%%%@@@@@+                                    .       
+                           :%@@@@@@@@#                                    .       
 ```
 
----
+# Hi, I'm BradAM-Dock 👋
+### Full Stack Developer
 
-# 🚀 Tecnologías
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Building+full-stack+apps;Breaking+things+to+understand+them;Backend+%7C+Data+%7C+Security" alt="Typing SVG" />
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode,linux"/>
-
-</p>
+</div>
 
 ---
 
-# 📚 Actualmente
+## 🧑‍💻 About Me
 
-- 🌱 Aprendiendo IA
-- 🔐 Practicando Ciberseguridad
-- ⚡ Construyendo proyectos en Python
-- 🖥️ Mejorando en Java
-- 🗄️ SQL Server y MySQL
+I'm a Full Stack Developer who works across the whole stack — from APIs and databases to the systems and networks that run them. I like understanding how things work well enough to also know how they break.
 
 ---
 
-# 📂 Proyectos
+## 🛠️ Tech Stack
 
-### 🤖 Sistema IA
+**Languages**
 
-Predicción del rendimiento académico mediante Árboles de Decisión.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Tecnologías
+**Backend**
 
-- Python
-- SQL Server
-- FastAPI
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+**AI / Data**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BradAM-Dock&show_icons=true&theme=radical&count_private=true" alt="BradAM-Dock's GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BradAM-Dock&theme=radical" alt="BradAM-Dock's Streak Stats" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradAM-Dock&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+
+</div>
 
 ---
 
-### 🌐 Extensión para Chrome
+## 📫 Connect with Me
 
-Organizador de tareas moderno.
+<!-- Add your links below, e.g.:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tu-usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@example.com)
+-->
 
-Tecnologías
+<div align="center">
 
-- HTML
-- CSS
-- JavaScript
+![Profile Views](https://komarev.com/ghpvc/?username=BradAM-Dock&color=blueviolet&style=for-the-badge)
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=BradAM-Dock&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 💬 Frase
-
-> *"La mejor manera de aprender es construir."*
-
----
+</div>
