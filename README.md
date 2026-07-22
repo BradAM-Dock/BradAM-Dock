@@ -1,5 +1,22 @@
 <div align="center">
 
+<h1>Hi, I'm BradAM-Dock 👋</h1>
+<h3>Full Stack Developer</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Building+full-stack+apps;Breaking+things+to+understand+them;Backend+%7C+Data+%7C+Security" alt="Typing SVG" />
+
+<br/><br/>
+
+<code>BradAM-Dock ~ $ whoami</code>
+
+</div>
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+🔴 🟡 🟢 &nbsp; <code>~/portrait.sh</code>
+
 ```
 --------=-------==============+#%@@@@@@@@@%%%%%@%%%%%%%%%%%%%####################*
 =============-----=============++#%@@@@@@@@%%#@%@@%%%%%%%%%%%%###################*
@@ -44,12 +61,37 @@
                            :%@@@@@@@@#                                    .       
 ```
 
-# Hi, I'm BradAM-Dock 👋
-### Full Stack Developer
+</td>
+<td width="55%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Building+full-stack+apps;Breaking+things+to+understand+them;Backend+%7C+Data+%7C+Security" alt="Typing SVG" />
+🔴 🟡 🟢 &nbsp; <code>BradAM-Dock: ~$ neofetch</code>
 
-</div>
+```
+BradAM-Dock
+──────────────────────────────
+Role        Full Stack Developer
+
+── Languages
+Python, Java, JavaScript, SQL
+
+── Backend
+FastAPI, Node.js, Spring Boot
+
+── Databases
+MySQL, SQL Server, PostgreSQL
+
+── AI / Data
+Machine Learning, Scikit-learn
+Pandas, NumPy
+
+── Tools
+Git, GitHub, Linux, Kali Linux
+Docker, Nmap, Metasploit
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
