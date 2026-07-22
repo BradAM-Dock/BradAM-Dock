@@ -1,16 +1,107 @@
-# ¡Hola! 👋 Soy Brad
+<!-- ====================================================== -->
+<!-- Banner -->
+<!-- ====================================================== -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingeniería+de+Sistemas;Desarrollador+Python+y+Java;Apasionado+por+la+Ciberseguridad;Construyendo+proyectos+con+IA;Siempre+aprendiendo+nuevas+tecnologías)](https://git.io/typing-svg)
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Brad%20Muñoz&fontSize=60&fontColor=ffffff&animation=twinkling&color=0:0f2027,30:203a43,60:2c5364,100:00c6ff"/>
+</p>
 
-🎓 Estudiante de Ingeniería de Sistemas
-💻 Apasionado por el desarrollo de software
-🐍 Python | ☕ Java | 🗄️ MySQL | SQL Server
-🔐 Interesado en Ciberseguridad e Inteligencia Artificial
+<h1 align="center">👋 ¡Hola! Soy Brad</h1>
+
+<p align="center">
+
+<a href="https://git.io/typing-svg">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=💻+Ingeniería+de+Sistemas;🐍+Python+Developer;☕+Java+Developer;🤖+Inteligencia+Artificial;🔐+Ciberseguridad;🚀+Siempre+aprendiendo"/>
+
+</a>
+
+</p>
 
 ---
 
-## 🔥 Racha
+# 👨🏻‍💻 Sobre mí
+
+```text
+🎓 Ingeniería de Sistemas
+
+💻 Desarrollo de Software
+
+🤖 Inteligencia Artificial
+
+🔐 Ciberseguridad
+
+🗄 Bases de Datos
+
+🚀 Siempre buscando aprender algo nuevo.
+```
+
+---
+
+# 🚀 Tecnologías
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=BradAM-Dock&theme=tokyonight"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode,linux"/>
+
+</p>
+
+---
+
+# 📚 Actualmente
+
+- 🌱 Aprendiendo IA
+- 🔐 Practicando Ciberseguridad
+- ⚡ Construyendo proyectos en Python
+- 🖥️ Mejorando en Java
+- 🗄️ SQL Server y MySQL
+
+---
+
+# 📂 Proyectos
+
+### 🤖 Sistema IA
+
+Predicción del rendimiento académico mediante Árboles de Decisión.
+
+Tecnologías
+
+- Python
+- SQL Server
+- FastAPI
+
+---
+
+### 🌐 Extensión para Chrome
+
+Organizador de tareas moderno.
+
+Tecnologías
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=BradAM-Dock&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💬 Frase
+
+> *"La mejor manera de aprender es construir."*
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0f2027,30:203a43,60:2c5364,100:00c6ff"/>
+
 </p>
