@@ -9,17 +9,11 @@
 
 ---
 
-## 🚀 Tecnologías
+## 💻 Tecnologías
 
-- Python
-- Java
-- HTML
-- CSS
-- JavaScript
-- MySQL
-- Git
-- GitHub
-- SQL Server
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,SQL Server,vscode,linux"/>
+</p>
 
 ---
 
