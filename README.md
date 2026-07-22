@@ -6,7 +6,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Brad%20Muñoz&fontSize=60&fontColor=ffffff&animation=twinkling&color=0:0f2027,30:203a43,60:2c5364,100:00c6ff"/>
 </p>
 
-<h1 align="center">👋 ¡Hola! Soy Brad</h1>
+<h1 align="center"> Hola! Soy Brad</h1>
 
 <p align="center">
 
