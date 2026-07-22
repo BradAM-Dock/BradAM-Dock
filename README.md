@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Brad
 
-<!--
-**BradAM-Dock/BradAM-Dock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas
+💻 Apasionado por el desarrollo de software
+🐍 Python | ☕ Java | 🗄️ MySQL
+🔐 Interesado en Ciberseguridad e Inteligencia Artificial
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías
+
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git
+- GitHub
+
+---
+
+## 📊 Estadísticas
+
+
